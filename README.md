@@ -11,3 +11,5 @@ Things needed to test:
 - Multiple people
 
 Please watch the video here for a walkthrough of the experience: https://drive.google.com/file/d/1hOgLDdYIsUBboifSJl4sZj6onudLjXfo/view
+
+Project Link: https://playcanv.as/p/HiRQq6vH/
