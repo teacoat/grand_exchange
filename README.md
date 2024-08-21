@@ -5,6 +5,8 @@ The Grand Exchange is a realtime peer-to-peer trading experience. Users are able
 
 This project fits into the Defi category, as its a way to trade tokens and NFT's in a unique way that emphasizes discoverability through rooms, it also fits into the trailblazer category as its sort of unconventional in terms of Defi.
 
+I have conducted beta testing with a small group of users, they loved it and had lots of fun. General feedback was the UI was unpolished (understandable) and some UX changes that I implemented for clarification of the trade process. I have also been sharing updates on Twitter and the response has been very enthusiastic in the greater community.
+
 Things needed to test:
 - HashPack (preferably, its what I tested with)
 - Testnet account
